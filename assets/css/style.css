@@ -1,0 +1,33 @@
+body {
+	width: 960px;
+}
+
+.container {
+	width: 70%;
+	height: auto;
+	margin: 10% auto;
+	padding: 10px;
+	background-color: #dddddd;
+	text-align: center;
+}
+
+#header {
+	width: auto;
+	margin: 10px auto;
+}
+
+#letters a {
+	color: green;
+	background-color: darkgray;
+	border-radius: 5px;
+	padding: 5px;
+	cursor: pointer;
+}
+
+#letters a:hover {
+	color: red;
+}
+
+p {
+	color: blue;
+}
